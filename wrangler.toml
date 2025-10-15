@@ -1,4 +1,4 @@
-name = "cmem"
+name = "mem"
 
 main = "_worker.js"
 
